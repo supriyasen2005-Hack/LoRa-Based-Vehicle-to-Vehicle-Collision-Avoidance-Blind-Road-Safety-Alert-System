@@ -11,7 +11,7 @@ The project enables vehicles to exchange real-time safety information using long
 # 📸 System Design & Implementation
 
 <td align="center">
-<img src="Circuit Diagram.jpeg" width="500"><br>
+<img src="Circuit Diagram.jpeg" width="400"><br>
 <b>Circuit Diagram</b>
 </td>
 </tr>
