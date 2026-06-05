@@ -8,6 +8,24 @@ The **LoRa-Based Vehicle-to-Vehicle Collision Avoidance & Blind Road Safety Aler
 
 The project enables vehicles to exchange real-time safety information using long-range LoRa wireless communication and embedded sensing technologies.
 
+# 📸 System Design & Implementation
+
+<table>
+<tr>
+<td align="center">
+<img src="image.png" width="500"><br>
+<b>Hardware Prototype</b>
+</td>
+
+<td align="center">
+<img src="Circuit Diagram.jpeg" width="500"><br>
+<b>Circuit Diagram</b>
+</td>
+</tr>
+</table>
+
+---
+
 The system integrates:
 
 * Vehicle-to-Vehicle Communication (V2V)
